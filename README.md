@@ -8,6 +8,8 @@ Built by one person, mostly overnight. Try it out 👇
 
 ## New (November 2026)
 
+- **Time Machine: your photo, another era:** type `/era` or send a photo with "give this a 1960s look". Pick one of ten decades, from 1930s cinema to 2020s clean, set the strength and see a preview first. It is a photo treatment: your face, pose, clothes and background are never redrawn, the original is not kept, and the result stays on your device.
+- **Send your changes to GitHub as a pull request:** in Code, bring in your own repository at one exact version, edit it, and send the change as a draft pull request on a new branch, only after you approve that exact change. It never touches your main branch, never merges, and stops if GitHub moved ahead or a file holds a key.
 - **Trips with places, food, stays, maps and videos:** say "I am planning a trip to Bali" or "what to eat in Hyderabad". Besides flights and routes you get places to visit, local dishes and the best areas to stay, each with an exact Google Maps and Apple Maps link, hotel search links, and real YouTube videos about the place and its food. Places come from Wikivoyage and are credited.
 - **Real videos with study questions:** ask "what is photosynthesis?" and real YouTube videos about it come with the answer: real links found through YouTube, never made up.
 - **Click to edit:** in the preview of anything you built, press Click to edit, tap the part you want to change and say how ("make this card glassy"). Only that part is changed, and every change is a new version you can undo.
