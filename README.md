@@ -8,6 +8,9 @@ Built by one person, mostly overnight. Try it out 👇
 
 ## New (November 2026)
 
+- **Trips with places, food, stays, maps and videos:** say "I am planning a trip to Bali" or "what to eat in Hyderabad". Besides flights and routes you get places to visit, local dishes and the best areas to stay, each with an exact Google Maps and Apple Maps link, hotel search links, and real YouTube videos about the place and its food. Places come from Wikivoyage and are credited.
+- **Real videos with study questions:** ask "what is photosynthesis?" and real YouTube videos about it come with the answer: real links found through YouTube, never made up.
+- **Click to edit:** in the preview of anything you built, press Click to edit, tap the part you want to change and say how ("make this card glassy"). Only that part is changed, and every change is a new version you can undo.
 - **Apps with their own rules:** ask for "a task tracker where each person sees only their own projects" or "projects I can share with my team". CodeConClave writes a short description of the app first (its lists, fields and who can see, add, change or delete what) for you to check. The server enforces it, and after every build it tests the key steps with throwaway test accounts and shows every result.
 - **Mission Control:** one place for what you're working toward, what's running, what needs your yes, what was made and what failed, with a task manager to pause, resume, cancel or retry.
 - **Projects:** every goal becomes a project you can come back to, with its plan, work, results (older versions kept), sources and a timeline. Export it or delete it.
